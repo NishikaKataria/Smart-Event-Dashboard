@@ -52,5 +52,4 @@ Assignment: Smart Event Dashboard
 Topic: DOM Manipulation using Vanilla JavaScript
 
 ## 👨‍💻 Author
-
-Student Name: Nishika Chaudhary
+Nishika Chaudhary
